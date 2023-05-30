@@ -13,7 +13,7 @@
             <Frame>
                 <VerticalStackLayout>
                     <Label Text="Enter the purchase amount:"/>
-                    <Entry Placeholder="Enter the amount" x:Name="PurcheseAmt" Keyboard="Numeric"/>
+                    <Entry Placeholder="Enter the amount" x:Name="PurchaseAmt" Keyboard="Numeric"/>
                 </VerticalStackLayout>
             </Frame>
 
@@ -23,9 +23,9 @@
                     <Entry Placeholder="Enter the amount" x:Name="MoneyGiven" Keyboard="Numeric"/>
                 </VerticalStackLayout>
             </Frame>
-            <Button Text="Calculate"/>
-                    <Label Text="List of Change Breakdown" />
-                    <Label Text="Change" x:Name="changeBreakdown" />
+            <Button Text="Calculate" Clicked="calculateChange"/>
+            <Label Text="List of Change Breakdown" />
+            <Label Text="Change" x:Name="changeBreakdown" />
         </VerticalStackLayout>
     </ScrollView>
 
