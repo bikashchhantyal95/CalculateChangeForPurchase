@@ -1,32 +1,27 @@
 ﻿<Properties StartupConfiguration="{3C83A99F-1DF3-4838-AAF3-8D158C79D719}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CalculateChangeForApp PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="CalculateChangeForApp/MainPage.xaml.cs">
     <Files>
-      <File FileName="CalculateChangeForApp/MainPage.xaml.cs" Line="24" Column="54" />
-      <File FileName="CalculateChangeForApp/MainPage.xaml" Line="34" Column="54" />
+      <File FileName="CalculateChangeForApp/MainPage.xaml" Line="16" Column="73" />
+      <File FileName="CalculateChangeForApp/MainPage.xaml.cs" Line="132" Column="77" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CalculateChangeForApp" expanded="True">
             <Node name="CalculateChangeForApp" expanded="True">
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.ItemProperties.CalculateChangeForApp PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
 </Properties>
